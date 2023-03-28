@@ -6,9 +6,11 @@ In order to create the team's profile webpage you will need to access your comma
 
 What I learned from this challenge..
 <br>
+<br>
 I learned how to use node.js to a point where I am feeling much more comfortable with it.
 <br>
 The technologies used for this app were JavaScript, HTML, Node.js, JSON
+<br>
 <br>
 Helpful websites used..
 <br>

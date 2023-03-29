@@ -13,7 +13,7 @@ The technologies used for this app were JavaScript, HTML, Node.js, JSON
 <br>
 Helpful websites used..
 <br>
-https://www.w3schools.com/, node.js crash tutorial on YouTube.
+https://www.w3schools.com/, node.js crash tutorial and Javascript tutorial on YouTube.
 
 # DEMO
 

@@ -11,7 +11,7 @@ I learned how to use node.js to a point where I am feeling much more comfortable
 The technologies used for this app were JavaScript, HTML, Node.js, JSON
 <br>
 <br>
-Helpful websites used..
+Helpful websites used:
 <br>
 https://www.w3schools.com/, node.js crash tutorial and Javascript tutorial on YouTube.
 
